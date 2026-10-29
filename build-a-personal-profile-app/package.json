@@ -1,0 +1,12 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "A profile route",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
